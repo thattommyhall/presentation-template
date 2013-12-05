@@ -15,6 +15,7 @@
         font-family: 'Yanone Kaffeesatz';
         font-weight: 400;
         margin-bottom: 0;
+        text-align:center;
       }
       h1 { font-size: 4em; }
       h2 { font-size: 2em; }
@@ -23,6 +24,7 @@
         position: absolute;
         bottom: 3em;
       }
+
       li p { line-height: 1.25em; }
       .red { color: #fa0000; }
       .large { font-size: 2em; }
@@ -115,6 +117,44 @@
         float: right;
         padding-top: 2em;
       }
+
+      blockquote {
+font-family: Georgia, serif;
+font-size: 16px;
+font-style: italic;
+margin: 0.25em 0;
+padding: 0.25em 40px;
+line-height: 1.45;
+position: relative;
+color: #383838;
+}
+
+      blockquote:before {
+display: block;
+content: "\201C";
+font-size: 80px;
+position: absolute;
+left: -20px;
+top: -20px;
+color: #7a7a7a;
+}
+
+blockquote cite {
+color: #999999;
+font-size: 14px;
+display: block;
+margin-top: 5px;
+}
+
+blockquote cite:before {
+content: "\2014 \2009";
+}
+canvas {
+  box-shadow: 0px 0px 20px #a39b9e;
+  -moz-box-shadow: 0px 0px 20px #a39b9e;
+  -webkit-box-shadow: 0px 0px 20px #a39b9e;
+  margin-top: 30px;
+}
     </style>
   </head>
   <body>
