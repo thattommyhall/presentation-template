@@ -9,8 +9,8 @@ Theatre fan, occasional mountaineer, part time runner, thoroughly nice chap, ava
 ---
 
 class: center
-<img src="FL.png" alt="Futurelearn" width="100%">
+<img src="uswitch.png" alt="Uswitch" width="100%">
 
-[futurelearn.com](http://futurelearn.com)
+[uswitch.com](http://www.uswitch.com)
 
 ---
